@@ -2,12 +2,8 @@
 
 This repository is used to maintain the list of licences, associated with those Chromium components, that are used in TeamDev integration libraries:
 
-JxBrowser https://www.teamdev.com/jxbrowser 
-
-DotNetBrowser https://www.teamdev.com/dotnetbrowser
-
-JxMaps https://www.teamdev.com/jxmaps.
-
+- [JxBrowser](https://www.teamdev.com/jxbrowser)
+- [DotNetBrowser](https://www.teamdev.com/dotnetbrowser)
 
 The purpose of this storage is to provide licences texts to help conduct a legal review of the licences included in TeamDev libraries. 
 
