@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2026-07-22T23:01:07Z",
+        "created": "2026-07-30T12:00:08Z",
         "creators": [
             "Tool: spdx.py-1.1"
         ]
@@ -156,7 +156,7 @@
     ],
     "name": "Chromium-licenses",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/1.1/",
+    "documentNamespace": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/1.1/",
     "packages": [
         {
             "SPDXID": "SPDXRef-Package-Chromium",
@@ -165,7 +165,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -175,7 +175,7 @@
             "licenseDeclared": "BSD-3-Clause",
             "name": "Chromium",
             "primaryPackagePurpose": "LIBRARY",
-            "versionInfo": "151.0.7922.34"
+            "versionInfo": "151.0.7922.72"
         },
         {
             "SPDXID": "SPDXRef-Package-CityHash",
@@ -187,7 +187,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/base/third_party/cityhash/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/base/third_party/cityhash/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -215,7 +215,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/base/third_party/cityhash_v103/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/base/third_party/cityhash_v103/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -243,7 +243,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/base/third_party/double_conversion/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/base/third_party/double_conversion/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -270,7 +270,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/base/third_party/nspr/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/base/third_party/nspr/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -298,7 +298,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/base/third_party/superfasthash/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/base/third_party/superfasthash/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -319,7 +319,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/base/third_party/symbolize/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/base/third_party/symbolize/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -346,7 +346,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/base/third_party/xdg_user_dirs/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/base/third_party/xdg_user_dirs/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -368,7 +368,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/net/third_party/mozilla_security_manager/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/net/third_party/mozilla_security_manager/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -390,7 +390,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/net/third_party/mozilla_win/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/net/third_party/mozilla_win/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -412,7 +412,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/net/third_party/quiche/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/net/third_party/quiche/src/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -435,7 +435,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/net/third_party/uri_template/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/net/third_party/uri_template/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -462,7 +462,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/abseil-cpp/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/abseil-cpp/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -486,7 +486,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/angle/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/angle/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -507,7 +507,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/angle/src/common/third_party/xxhash/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/angle/src/common/third_party/xxhash/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -535,7 +535,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/angle/src/third_party/libXNVCtrl/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/angle/src/third_party/libXNVCtrl/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -557,7 +557,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/angle/src/third_party/volk/LICENSE.md",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/angle/src/third_party/volk/LICENSE.md",
                     "referenceType": "url"
                 },
                 {
@@ -584,7 +584,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/anonymous_tokens/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/anonymous_tokens/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -611,7 +611,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/axe-core/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/axe-core/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -636,7 +636,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/blink/LICENSE_FOR_ABOUT_CREDITS",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/blink/LICENSE_FOR_ABOUT_CREDITS",
                     "referenceType": "url"
                 }
             ],
@@ -657,7 +657,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/boringssl/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/boringssl/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -684,7 +684,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/boringssl/src/third_party/fiat/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/boringssl/src/third_party/fiat/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -712,7 +712,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/brotli/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/brotli/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -744,7 +744,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/ced/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/ced/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -776,7 +776,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/cld_3/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/cld_3/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -802,7 +802,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/compiler-rt/src/LICENSE.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/compiler-rt/src/LICENSE.TXT",
                     "referenceType": "url"
                 },
                 {
@@ -829,7 +829,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/content_analysis_sdk/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/content_analysis_sdk/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -856,7 +856,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/coremltools/mlmodel/format/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/coremltools/mlmodel/format/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -884,7 +884,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/cpuinfo/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/cpuinfo/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -911,7 +911,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/crabbyavif/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/crabbyavif/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -938,7 +938,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/crashpad/crashpad/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/crashpad/crashpad/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -957,7 +957,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/crashpad/crashpad/third_party/getopt/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/crashpad/crashpad/third_party/getopt/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -975,7 +975,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/lss/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/lss/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -996,7 +996,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/crc32c/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/crc32c/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1024,7 +1024,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/d3/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/d3/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1057,7 +1057,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/dav1d/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/dav1d/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1084,7 +1084,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/dawn/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/dawn/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -1106,7 +1106,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/dawn/third_party/EGL-Registry/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/dawn/third_party/EGL-Registry/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1132,7 +1132,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/dawn/third_party/directx-shader-compiler/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/dawn/third_party/directx-shader-compiler/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1159,7 +1159,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/decklink/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/decklink/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -1181,7 +1181,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -1203,7 +1203,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/acorn/package/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/acorn/package/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1231,7 +1231,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/codemirror/package/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/codemirror/package/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1259,7 +1259,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/codemirror.next/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/codemirror.next/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1286,7 +1286,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/csp_evaluator/package/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/csp_evaluator/package/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1313,7 +1313,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/diff/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/diff/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1341,7 +1341,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/i18n/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/i18n/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1368,7 +1368,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/intl-messageformat/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/intl-messageformat/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1396,7 +1396,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/json5/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/json5/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1429,7 +1429,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/legacy-javascript/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/legacy-javascript/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1457,7 +1457,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/lighthouse/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/lighthouse/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1485,7 +1485,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/lit/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/lit/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1513,7 +1513,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/marked/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/marked/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1541,7 +1541,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1569,7 +1569,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer-replay/package/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer-replay/package/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1597,7 +1597,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/mitt/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/mitt/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1624,7 +1624,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/parsel/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/parsel/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1651,7 +1651,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/rxjs/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/rxjs/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1678,7 +1678,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/source-map-scopes-codec/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/source-map-scopes-codec/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1706,7 +1706,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/third-party-web/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/third-party-web/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1734,7 +1734,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/vscode.web-custom-data/package/LICENSE.md",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/vscode.web-custom-data/package/LICENSE.md",
                     "referenceType": "url"
                 },
                 {
@@ -1762,7 +1762,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/wasmparser/package/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/wasmparser/package/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1790,7 +1790,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/web-vitals/package/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/devtools-frontend/src/front_end/third_party/web-vitals/package/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1818,7 +1818,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/dom_distiller_js/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/dom_distiller_js/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1846,12 +1846,12 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/dragonbox/src/LICENSE-Apache2-LLVM",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/dragonbox/src/LICENSE-Apache2-LLVM",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/dragonbox/src/LICENSE-Boost",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/dragonbox/src/LICENSE-Boost",
                     "referenceType": "url"
                 },
                 {
@@ -1878,7 +1878,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/emoji-segmenter/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/emoji-segmenter/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1906,7 +1906,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/expat/src/expat/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/expat/src/expat/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -1939,7 +1939,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/farmhash/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/farmhash/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -1967,7 +1967,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/fast_float/src/LICENSE-MIT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/fast_float/src/LICENSE-MIT",
                     "referenceType": "url"
                 },
                 {
@@ -1995,7 +1995,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/fdlibm/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/fdlibm/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -2017,7 +2017,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/federated_compute/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/federated_compute/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2044,7 +2044,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/federated_compute/third_party/googleapis/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/federated_compute/third_party/googleapis/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2071,7 +2071,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/federated_compute/third_party/protodatastore-cpp/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/federated_compute/third_party/protodatastore-cpp/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2098,7 +2098,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/federated_compute/third_party/tensorflow-federated/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/federated_compute/third_party/tensorflow-federated/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2125,7 +2125,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/ffmpeg/CREDITS.chromium",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/ffmpeg/CREDITS.chromium",
                     "referenceType": "url"
                 }
             ],
@@ -2146,7 +2146,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/fft2d/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/fft2d/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -2168,7 +2168,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/flac/COPYING.Xiph",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/flac/COPYING.Xiph",
                     "referenceType": "url"
                 },
                 {
@@ -2196,7 +2196,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/flatbuffers/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/flatbuffers/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2228,7 +2228,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/fontconfig/src/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/fontconfig/src/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -2255,7 +2255,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/fp16/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/fp16/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2282,7 +2282,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/freetype/src/docs/FTL.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/freetype/src/docs/FTL.TXT",
                     "referenceType": "url"
                 },
                 {
@@ -2310,7 +2310,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/fxdiv/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/fxdiv/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2337,7 +2337,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/gemmlowp/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/gemmlowp/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2364,7 +2364,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/harfbuzz/src/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/harfbuzz/src/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -2392,7 +2392,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/highway/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/highway/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2420,7 +2420,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/hunspell/COPYING.MPL",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/hunspell/COPYING.MPL",
                     "referenceType": "url"
                 },
                 {
@@ -2447,7 +2447,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/iaccessible2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/iaccessible2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2475,7 +2475,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/icu/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/icu/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2507,7 +2507,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/ink/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/ink/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2534,7 +2534,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/inspector_protocol/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/inspector_protocol/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -2553,7 +2553,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/ipcz/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/ipcz/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -2574,7 +2574,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/isimpledom/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/isimpledom/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2601,7 +2601,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/jsoncpp/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/jsoncpp/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2633,7 +2633,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/lens_server_proto/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/lens_server_proto/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -2655,7 +2655,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/leveldatabase/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/leveldatabase/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2683,7 +2683,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libaddressinput/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libaddressinput/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2710,12 +2710,12 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libaom/source/libaom/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libaom/source/libaom/LICENSE",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libaom/source/libaom/PATENTS",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libaom/source/libaom/PATENTS",
                     "referenceType": "url"
                 },
                 {
@@ -2739,7 +2739,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libaom/source/libaom/third_party/fastfeat/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libaom/source/libaom/third_party/fastfeat/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2762,7 +2762,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libaom/source/libaom/third_party/vector/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libaom/source/libaom/third_party/vector/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2788,7 +2788,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libc++/src/LICENSE.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libc++/src/LICENSE.TXT",
                     "referenceType": "url"
                 }
             ],
@@ -2810,7 +2810,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libc++abi/src/LICENSE.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libc++abi/src/LICENSE.TXT",
                     "referenceType": "url"
                 }
             ],
@@ -2832,7 +2832,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libgav1/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libgav1/src/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -2854,7 +2854,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libjpeg_turbo/LICENSE.md.chromium",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libjpeg_turbo/LICENSE.md.chromium",
                     "referenceType": "url"
                 },
                 {
@@ -2882,7 +2882,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libphonenumber/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libphonenumber/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2909,7 +2909,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libsrtp/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libsrtp/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2936,7 +2936,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libsync/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libsync/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -2958,7 +2958,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libtess2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libtess2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -2986,7 +2986,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/liburlpattern/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/liburlpattern/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3007,7 +3007,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libusb/src/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libusb/src/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -3040,12 +3040,12 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libvpx/source/libvpx/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libvpx/source/libvpx/LICENSE",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libvpx/source/libvpx/PATENTS",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libvpx/source/libvpx/PATENTS",
                     "referenceType": "url"
                 },
                 {
@@ -3072,12 +3072,12 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libwebm/source/LICENSE.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libwebm/source/LICENSE.TXT",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libwebm/source/PATENTS.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libwebm/source/PATENTS.TXT",
                     "referenceType": "url"
                 },
                 {
@@ -3104,12 +3104,12 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libwebp/src/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libwebp/src/COPYING",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libwebp/src/PATENTS",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libwebp/src/PATENTS",
                     "referenceType": "url"
                 },
                 {
@@ -3136,17 +3136,17 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libxml/src/Copyright",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libxml/src/Copyright",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libxml/src/dict.c",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libxml/src/dict.c",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libxml/src/list.c",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libxml/src/list.c",
                     "referenceType": "url"
                 },
                 {
@@ -3173,7 +3173,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libxslt/src/Copyright",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libxslt/src/Copyright",
                     "referenceType": "url"
                 },
                 {
@@ -3200,7 +3200,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libyuv/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libyuv/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3222,7 +3222,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/libzip/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/libzip/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3254,7 +3254,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/lit/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/lit/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3277,7 +3277,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/litert/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/litert/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3304,7 +3304,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/llvm-libc/src/LICENSE.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/llvm-libc/src/LICENSE.TXT",
                     "referenceType": "url"
                 }
             ],
@@ -3326,7 +3326,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/lottie/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/lottie/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3354,7 +3354,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/lzma_sdk/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/lzma_sdk/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3381,7 +3381,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/material_color_utilities/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/material_color_utilities/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3408,7 +3408,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/metrics_proto/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/metrics_proto/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3430,7 +3430,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/microsoft_webauthn/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/microsoft_webauthn/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3457,7 +3457,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/minigbm/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/minigbm/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3479,7 +3479,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/modp_b64/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/modp_b64/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3507,7 +3507,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/neon_2_sse/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/neon_2_sse/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3534,7 +3534,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/node/node_modules/lit/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/node/node_modules/lit/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3556,7 +3556,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/node/Apache-LICENSE-2.0.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/node/Apache-LICENSE-2.0.txt",
                     "referenceType": "url"
                 },
                 {
@@ -3583,7 +3583,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/node/node_modules/@azure/msal-browser/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/node/node_modules/@azure/msal-browser/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3610,7 +3610,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/node/Apache-LICENSE-2.0.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/node/Apache-LICENSE-2.0.txt",
                     "referenceType": "url"
                 },
                 {
@@ -3637,7 +3637,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/node/Apache-LICENSE-2.0.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/node/Apache-LICENSE-2.0.txt",
                     "referenceType": "url"
                 },
                 {
@@ -3664,7 +3664,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/oak/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/oak/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3691,7 +3691,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/omnibox_proto/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/omnibox_proto/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3713,7 +3713,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/one_euro_filter/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/one_euro_filter/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3740,7 +3740,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/openh264/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/openh264/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3766,7 +3766,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/openscreen/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/openscreen/src/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3785,7 +3785,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/boringssl/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/boringssl/src/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3803,7 +3803,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/jsoncpp/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/jsoncpp/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3829,7 +3829,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/openxr/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/openxr/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3857,7 +3857,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/openxr/src/src/external/jnipp/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/openxr/src/src/external/jnipp/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3885,7 +3885,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/openxr/src/LICENSES/Apache-2.0.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/openxr/src/LICENSES/Apache-2.0.txt",
                     "referenceType": "url"
                 }
             ],
@@ -3906,7 +3906,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/opus/src/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/opus/src/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -3934,7 +3934,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/ots/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/ots/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -3958,7 +3958,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/pdfium/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/pdfium/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -3979,7 +3979,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/pdfium/third_party/agg23/copying",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/pdfium/third_party/agg23/copying",
                     "referenceType": "url"
                 }
             ],
@@ -3998,7 +3998,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/pdfium/third_party/bigint/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/pdfium/third_party/bigint/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -4019,7 +4019,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/pdfium/third_party/libopenjpeg/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/pdfium/third_party/libopenjpeg/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4052,7 +4052,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/pdfium/third_party/libtiff/LICENSE.md",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/pdfium/third_party/libtiff/LICENSE.md",
                     "referenceType": "url"
                 },
                 {
@@ -4085,7 +4085,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/perfetto/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/perfetto/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4111,7 +4111,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/pffft/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/pffft/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4138,7 +4138,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/polymer/LICENSE.polymer",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/polymer/LICENSE.polymer",
                     "referenceType": "url"
                 },
                 {
@@ -4166,7 +4166,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/private-join-and-compute/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/private-join-and-compute/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4193,7 +4193,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/private_membership/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/private_membership/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -4214,7 +4214,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/protobuf/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/protobuf/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4247,7 +4247,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/protobuf-javascript/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/protobuf-javascript/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4272,7 +4272,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/protobuf/third_party/utf8_range/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/protobuf/third_party/utf8_range/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4298,7 +4298,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/pthreadpool/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/pthreadpool/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4325,7 +4325,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/puffin/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/puffin/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -4348,7 +4348,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/re2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/re2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4375,7 +4375,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rnnoise/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rnnoise/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -4402,7 +4402,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/adler2-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/adler2-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4430,7 +4430,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/anyhow-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/anyhow-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4458,7 +4458,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/array-init-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/array-init-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4486,7 +4486,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/bitflags-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/bitflags-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4514,7 +4514,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/bytemuck-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/bytemuck-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4542,7 +4542,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/bytemuck_derive-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/bytemuck_derive-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4570,7 +4570,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/byteorder-v1/LICENSE-MIT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/byteorder-v1/LICENSE-MIT",
                     "referenceType": "url"
                 },
                 {
@@ -4598,7 +4598,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/byteorder-lite-v0_1/LICENSE-MIT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/byteorder-lite-v0_1/LICENSE-MIT",
                     "referenceType": "url"
                 },
                 {
@@ -4626,7 +4626,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/calendrical_calculations-v0_2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/calendrical_calculations-v0_2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4654,7 +4654,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/cfg-if-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/cfg-if-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4682,7 +4682,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/codespan-reporting-v0_13/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/codespan-reporting-v0_13/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4710,7 +4710,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/core_maths-v0_1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/core_maths-v0_1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4738,7 +4738,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/crc32fast-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/crc32fast-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4766,7 +4766,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/cxx-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/cxx-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4794,7 +4794,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/cxxbridge-macro-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/cxxbridge-macro-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4822,7 +4822,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/derivre-v0_3/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/derivre-v0_3/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -4850,7 +4850,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/diplomat-v0_15/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/diplomat-v0_15/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4878,7 +4878,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/diplomat_core-v0_15/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/diplomat_core-v0_15/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4906,7 +4906,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/diplomat-runtime-v0_15/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/diplomat-runtime-v0_15/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4934,7 +4934,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/displaydoc-v0_2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/displaydoc-v0_2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4962,7 +4962,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/either-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/either-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -4990,7 +4990,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/equivalent-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/equivalent-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5018,7 +5018,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/fdeflate-v0_3/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/fdeflate-v0_3/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5046,7 +5046,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/flate2-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/flate2-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5074,7 +5074,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/foldhash-v0_2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/foldhash-v0_2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5102,7 +5102,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/font-types-v0_12/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/font-types-v0_12/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5130,7 +5130,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/harfrust-v0_10/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/harfrust-v0_10/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5158,7 +5158,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/hashbrown-v0_17/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/hashbrown-v0_17/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5186,7 +5186,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/heck-v0_5/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/heck-v0_5/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5214,7 +5214,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/hmac-sha256-v1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/hmac-sha256-v1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5242,7 +5242,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_calendar-v2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_calendar-v2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5270,7 +5270,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_calendar_data-v2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_calendar_data-v2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5298,7 +5298,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_collections-v2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_collections-v2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5326,7 +5326,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_locale-v2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_locale-v2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5354,7 +5354,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_locale_core-v2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_locale_core-v2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5382,7 +5382,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_locale_data-v2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_locale_data-v2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5410,7 +5410,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_provider-v2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/icu_provider-v2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5438,7 +5438,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/image-v0_25/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/image-v0_25/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5466,7 +5466,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/indexmap-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/indexmap-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5494,7 +5494,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/itoa-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/itoa-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5522,7 +5522,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/ixdtf-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/ixdtf-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5550,7 +5550,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl-v0_4/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl-v0_4/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5578,7 +5578,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl_macros-v0_4/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl_macros-v0_4/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5606,7 +5606,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl_simd-v0_4/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl_simd-v0_4/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5634,7 +5634,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl_transforms-v0_4/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/jxl_transforms-v0_4/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5662,7 +5662,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/lazy_static-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/lazy_static-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5690,7 +5690,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/libc-v0_2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/libc-v0_2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5718,7 +5718,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/libm-v0_2/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/libm-v0_2/LICENSE.txt",
                     "referenceType": "url"
                 },
                 {
@@ -5746,7 +5746,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/litemap-v0_8/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/litemap-v0_8/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5774,7 +5774,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/llguidance-v1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/llguidance-v1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -5802,7 +5802,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/log-v0_4/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/log-v0_4/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5830,7 +5830,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/memchr-v2/LICENSE-MIT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/memchr-v2/LICENSE-MIT",
                     "referenceType": "url"
                 },
                 {
@@ -5858,7 +5858,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/miniz_oxide-v0_8/LICENSE-APACHE.md",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/miniz_oxide-v0_8/LICENSE-APACHE.md",
                     "referenceType": "url"
                 },
                 {
@@ -5886,7 +5886,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/moxcms-v0_8/LICENSE-APACHE.md",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/moxcms-v0_8/LICENSE-APACHE.md",
                     "referenceType": "url"
                 },
                 {
@@ -5914,7 +5914,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-complex-v0_4/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-complex-v0_4/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5942,7 +5942,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-derive-v0_4/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-derive-v0_4/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5970,7 +5970,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-integer-v0_1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-integer-v0_1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -5998,7 +5998,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-traits-v0_2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/num-traits-v0_2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6026,7 +6026,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/once_cell-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/once_cell-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6054,7 +6054,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/png-v0_18/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/png-v0_18/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6082,7 +6082,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/potential_utf-v0_1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/potential_utf-v0_1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6110,7 +6110,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/primal-check-v0_3/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/primal-check-v0_3/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6138,7 +6138,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/proc-macro2-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/proc-macro2-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6166,7 +6166,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/proc-macro-error2-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/proc-macro-error2-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6194,7 +6194,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/proc-macro-error-attr2-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/proc-macro-error-attr2-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6222,7 +6222,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/pxfm-v0_1/LICENSE-APACHE.md",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/pxfm-v0_1/LICENSE-APACHE.md",
                     "referenceType": "url"
                 },
                 {
@@ -6250,7 +6250,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/qr_code-v2/LICENSE-APACHE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/qr_code-v2/LICENSE-APACHE.txt",
                     "referenceType": "url"
                 },
                 {
@@ -6278,7 +6278,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/quote-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/quote-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6306,7 +6306,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/read-fonts-v0_40/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/read-fonts-v0_40/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6334,7 +6334,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/regex-lite-v0_1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/regex-lite-v0_1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6362,7 +6362,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/regex-syntax-v0_8/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/regex-syntax-v0_8/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6390,7 +6390,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/resb-v0_1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/resb-v0_1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6418,7 +6418,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/rustfft-v6/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/rustfft-v6/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6446,7 +6446,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/rustversion-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/rustversion-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6474,7 +6474,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/ryu-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/ryu-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6502,7 +6502,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6530,7 +6530,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_core-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_core-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6558,7 +6558,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_derive-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_derive-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6586,7 +6586,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_json-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_json-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6614,7 +6614,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_json_lenient-v0_2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/serde_json_lenient-v0_2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6642,7 +6642,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/simd-adler32-v0_3/LICENSE.md",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/simd-adler32-v0_3/LICENSE.md",
                     "referenceType": "url"
                 },
                 {
@@ -6670,7 +6670,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/skrifa-v0_43/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/skrifa-v0_43/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6698,7 +6698,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/smallvec-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/smallvec-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6726,7 +6726,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/stable_deref_trait-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/stable_deref_trait-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6754,7 +6754,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strck-v1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strck-v1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6782,7 +6782,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strength_reduce-v0_2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strength_reduce-v0_2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -6810,7 +6810,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strum-v0_28/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strum-v0_28/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6838,7 +6838,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strum_macros-v0_28/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/strum_macros-v0_28/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6866,7 +6866,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6894,7 +6894,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-flac-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-flac-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6922,7 +6922,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6950,7 +6950,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-codec-pcm-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-codec-pcm-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -6978,7 +6978,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-codec-vorbis-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-codec-vorbis-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7006,7 +7006,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-common-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-common-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7034,7 +7034,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-core-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-core-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7062,7 +7062,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-metadata-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/symphonia-metadata-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7090,7 +7090,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/syn-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/syn-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -7118,7 +7118,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/synstructure-v0_13/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/synstructure-v0_13/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7146,7 +7146,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/temporal_capi-v0_2/LICENSE-Apache",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/temporal_capi-v0_2/LICENSE-Apache",
                     "referenceType": "url"
                 },
                 {
@@ -7174,7 +7174,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/temporal_rs-v0_2/LICENSE-Apache",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/temporal_rs-v0_2/LICENSE-Apache",
                     "referenceType": "url"
                 },
                 {
@@ -7202,7 +7202,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/termcolor-v1/LICENSE-MIT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/termcolor-v1/LICENSE-MIT",
                     "referenceType": "url"
                 },
                 {
@@ -7230,7 +7230,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/thiserror-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/thiserror-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -7258,7 +7258,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/thiserror-impl-v2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/thiserror-impl-v2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -7286,7 +7286,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/timezone_provider-v0_2/LICENSE-Apache",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/timezone_provider-v0_2/LICENSE-Apache",
                     "referenceType": "url"
                 },
                 {
@@ -7314,7 +7314,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/tinystr-v0_8/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/tinystr-v0_8/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7342,7 +7342,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/toktrie-v1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/toktrie-v1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7370,7 +7370,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/transpose-v0_2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/transpose-v0_2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -7398,7 +7398,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/typed-path-v0_12/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/typed-path-v0_12/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -7426,12 +7426,12 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/unicode-ident-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/unicode-ident-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/unicode-ident-v1/LICENSE-UNICODE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/unicode-ident-v1/LICENSE-UNICODE",
                     "referenceType": "url"
                 },
                 {
@@ -7459,7 +7459,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/unicode-width-v0_2/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/unicode-width-v0_2/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -7487,7 +7487,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/utf8_iter-v1/LICENSE-APACHE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/utf8_iter-v1/LICENSE-APACHE",
                     "referenceType": "url"
                 },
                 {
@@ -7515,7 +7515,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/winapi-util-v0_1/LICENSE-MIT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/winapi-util-v0_1/LICENSE-MIT",
                     "referenceType": "url"
                 },
                 {
@@ -7543,7 +7543,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/windows-sys-v0_52/license-apache-2.0",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/windows-sys-v0_52/license-apache-2.0",
                     "referenceType": "url"
                 },
                 {
@@ -7571,7 +7571,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/windows-targets-v0_52/license-apache-2.0",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/windows-targets-v0_52/license-apache-2.0",
                     "referenceType": "url"
                 },
                 {
@@ -7599,7 +7599,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/windows_x86_64_msvc-v0_52/license-apache-2.0",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/windows_x86_64_msvc-v0_52/license-apache-2.0",
                     "referenceType": "url"
                 },
                 {
@@ -7627,7 +7627,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/writeable-v0_6/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/writeable-v0_6/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7655,7 +7655,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/xml-v1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/xml-v1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7683,7 +7683,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/yoke-v0_8/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/yoke-v0_8/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7711,7 +7711,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/yoke-derive-v0_8/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/yoke-derive-v0_8/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7739,7 +7739,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerofrom-v0_1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerofrom-v0_1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7767,7 +7767,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerofrom-derive-v0_1/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerofrom-derive-v0_1/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7795,7 +7795,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerotrie-v0_2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerotrie-v0_2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7823,7 +7823,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerovec-v0_11/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerovec-v0_11/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7851,7 +7851,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerovec-derive-v0_11/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zerovec-derive-v0_11/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7879,7 +7879,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zip-v8/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zip-v8/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7907,7 +7907,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zmij-v1/LICENSE-MIT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zmij-v1/LICENSE-MIT",
                     "referenceType": "url"
                 },
                 {
@@ -7935,7 +7935,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zoneinfo64-v0_3/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/rust/chromium_crates_io/vendor/zoneinfo64-v0_3/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7963,7 +7963,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/ruy/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/ruy/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -7990,7 +7990,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8011,7 +8011,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/sentencepiece/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/sentencepiece/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8043,7 +8043,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/shell-encryption/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/shell-encryption/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8070,7 +8070,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/simdutf/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/simdutf/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8098,7 +8098,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/skia/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/skia/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8119,7 +8119,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/smhasher/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/smhasher/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8146,7 +8146,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/snappy/src/COPYING",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/snappy/src/COPYING",
                     "referenceType": "url"
                 },
                 {
@@ -8173,7 +8173,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/speech-dispatcher/COPYING.LGPL",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/speech-dispatcher/COPYING.LGPL",
                     "referenceType": "url"
                 },
                 {
@@ -8201,7 +8201,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/spirv-headers/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/spirv-headers/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8227,7 +8227,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/spirv-tools/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/spirv-tools/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8253,7 +8253,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/sqlite/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/sqlite/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8283,7 +8283,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/LICENSE.txt",
                     "referenceType": "url"
                 }
             ],
@@ -8301,7 +8301,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/third_party/SPIRV-Headers/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/third_party/SPIRV-Headers/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8324,7 +8324,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/third_party/SPIRV-Tools/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/third_party/SPIRV-Tools/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8347,7 +8347,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/third_party/astc-encoder/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/third_party/astc-encoder/LICENSE.txt",
                     "referenceType": "url"
                 },
                 {
@@ -8370,7 +8370,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/third_party/llvm-10.0/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/third_party/llvm-10.0/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8388,7 +8388,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/third_party/llvm-subzero/LICENSE.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/third_party/llvm-subzero/LICENSE.TXT",
                     "referenceType": "url"
                 }
             ],
@@ -8406,7 +8406,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/third_party/marl/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/third_party/marl/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8429,7 +8429,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/swiftshader/third_party/subzero/LICENSE.TXT",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/swiftshader/third_party/subzero/LICENSE.TXT",
                     "referenceType": "url"
                 }
             ],
@@ -8450,7 +8450,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/tensorflow-text/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/tensorflow-text/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8477,7 +8477,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/tensorflow_models/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/tensorflow_models/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8504,7 +8504,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/tflite/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/tflite/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8533,7 +8533,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/tflite/src/third_party/xla/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/tflite/src/third_party/xla/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8559,7 +8559,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/tflite_support/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/tflite_support/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8586,7 +8586,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/unrar/src/license.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/unrar/src/license.txt",
                     "referenceType": "url"
                 },
                 {
@@ -8613,7 +8613,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/utf/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/utf/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8640,7 +8640,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/vulkan-headers/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/vulkan-headers/LICENSE.txt",
                     "referenceType": "url"
                 },
                 {
@@ -8671,7 +8671,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/vulkan-loader/src/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/vulkan-loader/src/LICENSE.txt",
                     "referenceType": "url"
                 },
                 {
@@ -8697,7 +8697,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/vulkan_memory_allocator/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/vulkan_memory_allocator/LICENSE.txt",
                     "referenceType": "url"
                 },
                 {
@@ -8724,7 +8724,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/webrtc/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/webrtc/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8750,7 +8750,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/webrtc/common_audio/third_party/ooura/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/webrtc/common_audio/third_party/ooura/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8771,7 +8771,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/webrtc/common_audio/third_party/spl_sqrt_floor/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/webrtc/common_audio/third_party/spl_sqrt_floor/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8789,7 +8789,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/webrtc/modules/third_party/fft/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/webrtc/modules/third_party/fft/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8807,7 +8807,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/webrtc/modules/third_party/g711/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/webrtc/modules/third_party/g711/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8825,7 +8825,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/webrtc/modules/third_party/g722/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/webrtc/modules/third_party/g722/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -8846,7 +8846,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/woff2/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/woff2/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8873,7 +8873,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/wtl/Ms-PL.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/wtl/Ms-PL.txt",
                     "referenceType": "url"
                 },
                 {
@@ -8900,7 +8900,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/wuffs/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/wuffs/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8928,7 +8928,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/xnnpack/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/xnnpack/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8955,7 +8955,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/zlib/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/zlib/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -8988,7 +8988,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/zstd/src/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/zstd/src/LICENSE",
                     "referenceType": "url"
                 },
                 {
@@ -9020,7 +9020,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/third_party/zxcvbn-cpp/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/third_party/zxcvbn-cpp/LICENSE.txt",
                     "referenceType": "url"
                 }
             ],
@@ -9042,7 +9042,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/url/third_party/mozilla/LICENSE.txt",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/url/third_party/mozilla/LICENSE.txt",
                     "referenceType": "url"
                 },
                 {
@@ -9066,22 +9066,22 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/LICENSE",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/LICENSE.fdlibm",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/LICENSE.fdlibm",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/LICENSE.strongtalk",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/LICENSE.strongtalk",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/LICENSE.v8",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/LICENSE.v8",
                     "referenceType": "url"
                 }
             ],
@@ -9102,7 +9102,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/third_party/glibc/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/third_party/glibc/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -9124,7 +9124,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/third_party/inspector_protocol/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/third_party/inspector_protocol/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -9143,7 +9143,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/third_party/siphash/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/third_party/siphash/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -9164,7 +9164,7 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/third_party/utf8-decoder/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/third_party/utf8-decoder/LICENSE",
                     "referenceType": "url"
                 }
             ],
@@ -9182,12 +9182,12 @@
             "externalRefs": [
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/third_party/v8/builtins/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/third_party/v8/builtins/LICENSE",
                     "referenceType": "url"
                 },
                 {
                     "referenceCategory": "OTHER",
-                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.34/chromium-licenses/v8/third_party/v8/codegen/LICENSE",
+                    "referenceLocator": "https://github.com/TeamDev-IP/Chromium-Licences/blob/v151.0.7922.72/chromium-licenses/v8/third_party/v8/codegen/LICENSE",
                     "referenceType": "url"
                 }
             ],
